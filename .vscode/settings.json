@@ -1,7 +1,10 @@
 {
     "github.codespaces.defaultExtensions": [
-        
+
         "GitHub.codespaces",
         "GitHub.vscode-pull-request-github"
     ]
-}
+}1.7.1 More fixes
+* fix WiFi work
+* fix code
+* fix DWS stopped working
